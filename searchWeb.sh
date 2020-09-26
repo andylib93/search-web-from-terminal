@@ -7,9 +7,6 @@
 	elif [ "$1" == "c" ]
 	then
 		BROWSER="chromium"
-	elif [ "$1" == "e" ]
-	then
-		BROWSER="Microsoft\\ Edge"
 	else
 		BROWSER="safari"
 	fi
