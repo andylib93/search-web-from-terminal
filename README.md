@@ -1,6 +1,6 @@
 # searchWebFromTerminal
 
-Sometimes I find myself in the Mac Terminal and want to google something or jump straight to Youtube with a direct query<br>
+Sometimes I find myself in the Mac Terminal and want to google something or jump straight to Youtube with a direct query.<br>
 For that I made a little script that helps me do that:<br>
 
 ## Prerequisits
